@@ -1,0 +1,125 @@
+<h1> {color: black;
+  font-family: verdana;
+  font-size: 300%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 400px;
+  margin-left: 400px;}
+body{
+
+    background-image: url('la.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+} 
+
+.container.cont {
+    margin-top: 90px;
+    background-color: rgba(255, 255, 255, 0.507);
+    border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+
+}
+.gambar img {
+    width: 270px;
+    border-radius: 20px;
+
+
+}
+
+.konten {
+    color: rgb(78, 78, 78);
+    font-size: 20px;
+}
+
+.tekun {
+    color: rgb(78, 78, 78);
+    font-weight: bolder;
+}
+
+.konten a {
+    color: white;
+    margin-top: 15px;
+}
+
+/* kontak */
+form{
+
+
+    margin-top: 50px;
+}
+.hehe{
+    background-color: rgba(255, 230, 198, 0.63);
+    padding: 60px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: green;
+    border-width: 3px;
+
+}
+.pesan {
+    height: 150px;
+
+
+}
+.form-control{
+    text-align: center;
+}
+
+a.bttn {
+    width: 90px;
+
+}
+
+
+/* end kontak */
+/* about me */
+
+.container.cont {
+    margin-top: 90px;
+    background-color: rgba(255, 255, 255, 0.507);
+    border-color: yellow;
+    border-width: 2px;
+    border-style: solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+
+}
+
+.aboutme {
+    margin-top: 80px;
+
+
+    padding: 70px;
+
+}
+
+.aboutme img {
+    width: 200px;
+    background-color: white;
+    box-shadow: 8px 8px #f1f1f1;
+    padding: 40px;
+    padding-bottom: 70px;
+    border-radius: 6px;
+}
+
+/* kontak */
+
+.aboutme img:hover {
+    background-color: #dadada;
+    transform: translate(3px,3px);
+    transition: 1s;
+}
+.btttn {
+    width: 210px;
+}
+
+/* end kontak */
+/* about me */
